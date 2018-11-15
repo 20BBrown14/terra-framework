@@ -16,6 +16,7 @@ Cerner Corporation
 - Adam Parker [@amichaelparker]
 - Corentin Leruth [@tatchi]
 - Brett Jankord [@bjankord]
+- Branden Brown [@20bbrown14]
 
 [@tbiethman]: https://github.com/tbiethman
 [@mjhenkes]: https://github.com/mjhenkes
@@ -33,3 +34,4 @@ Cerner Corporation
 [@amichaelparker]: https://github.com/amichaelparker
 [@tatchi]: https://github.com/tatchi
 [@bjankord]: https://github.com/bjankord
+[@20bbrown14]: https://github.com/20BBrown14
